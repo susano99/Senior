@@ -1,0 +1,1 @@
+install wamp or xamp to make the project work
